@@ -80,9 +80,12 @@ Guarda el proyecto como `apellido1_nombre_dragonball.xcf`.
 
 Guarda la imagen en formato JPG como `apellido1_nombre_dragonball.jpg`.
 
-## Subir el archivo
+## Subir los archivos
 
-Sube el fichero `apellido1_nombre_dragonball.jpg` a la plataforma.
+Sube los siguientes ficheros a la plataforma:
+
+- `apellido1_nombre_dragonball.xcf`.
+- `apellido1_nombre_dragonball.jpg`.
 
 # 10 Imagen Final (referencia)
 
