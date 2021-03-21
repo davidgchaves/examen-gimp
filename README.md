@@ -6,7 +6,7 @@
 
 ## Fecha
 
-Miércoles 24 de diciembre de 2020.
+Miércoles 24 de diciembre de 2020 a las 16:30.
 
 # 0 Descarga de imagen
 
