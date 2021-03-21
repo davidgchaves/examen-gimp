@@ -78,7 +78,7 @@ Guarda el proyecto como `apellido1_nombre_dragonball.xcf`.
 
 ## Guardar imagen
 
-Guarda la imagen en formato PNG como `apellido1_nombre_dragonball.jpg`.
+Guarda la imagen en formato JPG como `apellido1_nombre_dragonball.jpg`.
 
 ## Subir el archivo
 
